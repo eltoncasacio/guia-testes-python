@@ -1,5 +1,13 @@
 # Guia Completo: Testes Profissionais em Python 🧪
 
+[![Python](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Pytest](https://img.shields.io/badge/tested%20with-pytest-red.svg)](https://docs.pytest.org/)
+[![TDD](https://img.shields.io/badge/methodology-TDD-green.svg)](https://en.wikipedia.org/wiki/Test-driven_development)
+[![Coverage](https://img.shields.io/badge/coverage-95%25+-brightgreen.svg)](https://github.com/eltoncasacio/guia-testes-python)
+[![GitHub stars](https://img.shields.io/github/stars/eltoncasacio/guia-testes-python?style=social)](https://github.com/eltoncasacio/guia-testes-python/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/eltoncasacio/guia-testes-python?style=social)](https://github.com/eltoncasacio/guia-testes-python/network/members)
+
 Aprenda do zero a criar testes profissionais com pytest, mocking e fixtures.
 
 ## 🎯 Para quem é este guia?
